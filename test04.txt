@@ -1,0 +1,18 @@
+int a;
+int method2(string ab)
+{
+   return true;
+}
+void main(int a, boolean b)
+{
+char c = 'C';
+while(!b)
+{
+  a =(10.0+(c<a));
+}
+method2(24);
+while(a-b){
+
+}
+return true;
+}

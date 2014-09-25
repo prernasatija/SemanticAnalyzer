@@ -1,0 +1,39 @@
+float x() {
+  float x;
+  float x = 5;
+}
+float x() { 
+  string x;
+  char y;
+  void x;
+  boolean w;
+  cse340 = 100;
+}
+int x(string x) {
+  x = "hello";
+  x = x(6);
+  x = "world" + 5 + 2.3 + "happy" + true;
+  x = "cse340" / "asu";
+}
+void sort (float arr){
+  anUnknownMethod("hi");
+  int i = 0; 
+  int j = 0;
+  while (i < 10){
+    while (j < 10){
+      if(j-1) {
+        arr = 2.3;
+        arr = 1.5;            
+      } else {}
+    }
+  }
+  while(i < 10) {
+  }
+  return "hello method";
+}
+float main() {
+   sort(1);  
+}
+void method () {
+}
+

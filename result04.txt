@@ -1,0 +1,6 @@
+Return type mismatch in line:4
+Type mismatch in line:11
+Type or number of parameters in method :method2-int are incorrect in line:13
+Boolean Expression expected in line:14
+Return type mismatch in line:17
+Program finished successfully

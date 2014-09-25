@@ -1,0 +1,10 @@
+Duplicated Variable:x:in line:3
+Duplicated Method:x:in line:5
+Duplicated Variable:x:in line:6
+Variable :cse340 not found in Line:10
+Type mismatch in line:14
+Type mismatch in line:16
+Type or number of parameters in method :anUnknownMethod-string are incorrect in line:19
+Boolean Expression expected in line:24
+Return type mismatch in line:32Type or number of parameters in method :sort-int are incorrect in line:35
+Program finished successfully
